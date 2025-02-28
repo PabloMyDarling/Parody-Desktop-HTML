@@ -21,11 +21,11 @@
 
 @keyframes showOptions {
     from { bottom: -150px; } /* Start off-screen (below the viewport) */
-    to { bottom: 195px; } /* End just above the bottom panel */
+    to { bottom: 194px; } /* End just above the bottom panel */
 }
 
 @keyframes hideOptions {
-    from { bottom: 195px; }
+    from { bottom: 194px; }
     to { bottom: -150px; } /* Start off-screen (below the viewport) */
 }
 
